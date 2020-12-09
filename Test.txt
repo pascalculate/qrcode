@@ -38,4 +38,4 @@ IE6~10, Chrome, Firefox, Safari, Opera, Mobile Safari, Android, Windows Mobile, 
 
 License
 MIT License
->>>>>>> 731032354cbf725f5a5e0f1f9
+>>>>>>> 731032354cbf725f5a5e0f1f9ji9jk
